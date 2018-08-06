@@ -1,12 +1,12 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8">
 <title>开心一下</title>
 </head>
 <body>
-
-alter(“你好”）；
+JavaScript:
+do{alter(“你好”）；
 alter(“恭喜”）；
 alter(“什么”）；
 alter(“你问我为什么恭喜你”）；
@@ -32,8 +32,6 @@ alter(“最后再跟你说几句话吧”）；
 alter(“你马上就要出去了”）；
 alter(“在这最后的时候我想对你说”）；
 alter(“我喜欢你”）；
-alter(“所以要不要再点进来呢（哈哈哈）”）；
-
-
+alter(“所以要不要再点进来呢（哈哈哈）”）；}while(2)
 </body>
 </html>

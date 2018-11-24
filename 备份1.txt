@@ -1,0 +1,37 @@
+<!备份于2018年11月24日，本次修改前代码>
+<!doctype html>
+  <html>
+  <head>
+<meta name="linxuan sun" content="HEge Refsnes">
+<meta name="大连格致中学16宝九班团支部" content="HTML,CSS,XML,XHTML,Javascript">
+<meta charset="utf-8">
+<title>大连格致中学16宝九班团支部</title>
+     <link rel="icon" href="https://raw.githubusercontent.com/Robertspot/Robertspot-daliangezhimiddleschool-8.9thecommunistyouthleaguebranch/master/pictures/1.ico" title="helloworld" type="image/x-icon" sizes="16x16">
+  </head>
+  <body style="background-color:#FFFAF0">
+<!于2018年8月1日开创此网站代码>
+    <audio controls="controls">
+  <source src="https://raw.githubusercontent.com/Robertspot/download/master/music/6%E8%AF%97%E4%BA%BA-%E5%8D%A1%E5%B8%83%E5%A5%87%E8%AF%BA.mp3" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/Robertspot/download/master/music/6%E8%AF%97%E4%BA%BA-%E5%8D%A1%E5%B8%83%E5%A5%87%E8%AF%BA.mp3" type="audio/mpeg">
+<embed height="100" width="100" src="/i/song.mp3" />
+</audio>
+<h1 style="text-align:center;font-family:arial;font-size:45px">大连格致中学16宝九班团支部</h1>
+<p style="font-family:arial;font-size:35px">
+此处为大连格致中学16宝九班的共青团团支部官网，开创于2018年8月暑期。我会尽快把每周的团课内容更新哈，请等候。<br/>
+<hr/>
+<pre>
+<i><a href="/Robertspot-daliangezhimiddleschool-8.9thecommunistyouthleaguebranch/2018summerholidayclass/">2018暑期团课指引<a></i>
+<i><a href="/Robertspot-daliangezhimiddleschool-8.9thecommunistyouthleaguebranch/people/">团内人员<a></i>
+<i><a href="/Robertspot-daliangezhimiddleschool-8.9thecommunistyouthleaguebranch/diary/">团员日记</a></i>
+<i><a href="/Robertspot-daliangezhimiddleschool-8.9thecommunistyouthleaguebranch/news">最新消息</a></i>
+<hr/>
+</pre>
+<div>  <div class="a11">
+<center>
+技术支持：双曲线工作室<br/>
+该网站团支部负责人：团支书蔡诗嘉
+</center>
+</div>
+</div>
+  </body>
+  </html>
